@@ -25,3 +25,4 @@ app.get("/", (re, res) => {
 });
 
 
+module.exports=app;
